@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    font-size: 30px;
+    background: linear-gradient( #060efc 0%, #05efdf 100%);
+    background-repeat:no-repeat;
+    color: white;
+}
+img{
+    width: 300px;
+    border-radius: 50%;
+}
+#bio{
+    padding:20px;;
+    font-size:30px;
+    text-align: center;
+}
